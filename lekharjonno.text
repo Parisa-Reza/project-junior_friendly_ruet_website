@@ -1,0 +1,169 @@
+linear-gradient(to top,rgba(240, 250, 100, 0.61)50%,rgba(245, 255, 102, 0.534));
+
+ <p class="link">Don't have an account</p>
+            <a href="#">Sign up </a> here</a>
+
+            <input type="submit" value="Login"/>
+
+
+               <li> <a href="#studymaterials">Study Materials</a>
+            <ul>
+                
+             <li> <a href="#ECE">ECE</a> 
+        
+             <ul>
+                 <li> <a href="#firstyear">1st Year</a></li> 
+                 <li> <a href="#secondyear">2nd Year</a> 
+                 <!--> <ul>
+                     <li> <a href="#oddsem">Odd Sem</a>
+                    
+                        <ul>
+                            <li>  <a href="#ECE2103">ECE 2103</a> </li>
+                        </ul>
+                
+                      </li> 
+                      <li> <a href="#evensem">Even Sem</a></li> 
+
+
+                    </ul>-->
+
+
+                  </li>
+
+                  <li> <a href="#thirdyear">3rd Year</a> </li>
+                  <li> <a href="#fourthyear">4th Year</a> </li>
+                </ul>
+            
+            
+            </li>
+
+            <li> <a href="#CSE">CSE</a></li>
+            <li> <a href="#EEE">EEE</a></li>
+            <li> <a href="#ETE">ETE</a></li>
+            <li> <a href="#CE">CE</a></li>
+            <li> <a href="#URP">URP</a></li>
+            <li> <a href="#ARCH">ARCH</a></li>
+            <li> <a href="#BECM">BECM</a></li>
+            <li> <a href="#ME">ME</a></li>
+            <li> <a href="#IPE">IPE</a></li>
+            <li> <a href="#GCE">GCE</a></li>
+            <li> <a href="#MTE">MTE</a></li>
+            <li> <a href="#MSE">MSE</a></li>
+            <li> <a href="#CFPE">CFPE</a></li>
+    
+         </ul>
+         
+         </li>
+            
+         
+            <li> <a href="#accomodationvacancy">Accomodation Vacancy</a>
+            <!--<ul>
+                <a href="#Hall">Hall</a> 
+                <ul>
+              <li>                
+                  <a href="#LH">LH</a>
+
+              </li>
+              <li> <a href="#jia">Jia Hall</a></li>
+              <li> <a href="#hamid">Hamid Hall</a></li>
+              <li> <a href="#selim">Selim Hall</a></li>
+              <li> <a href="#tinshed">TinShed Hall </a></li>
+            </ul>
+
+            <li> <a href="#hostel">Hostel</a></li>
+            <li> <a href="#flattolet">Flat To-let</a></li>
+
+             </ul> -->
+            </li>
+
+            <li> <a href="#faq">Live<br>Chat</a></li>
+            <li> <a href="about.html">About</a></li>
+            <li> <a href="contact us.html">Contact us</a></li>
+           
+        </div>
+
+
+
+////////////////////////////////////////////////
+
+
+
+
+
+        .studymaterials  li a
+{
+   
+    display:flex;
+    list-style:
+    padding-left: 100px ;
+    color: white;
+    font-family: arial;
+    font-size: 20px;
+    font-weight :200;
+    word-spacing: 10px;
+    transition: 0.1s ease-in-out;
+   
+    margin: 3px;
+  
+
+}
+.studymaterials ul li 
+{
+    position: relative;
+    padding-left:100px ;
+    margin: 3px;
+   
+
+}
+.studymaterials ul ul li 
+{
+   
+    padding-left:200px ;
+    margin: 3px;
+
+}
+.studymaterials ul ul ul li 
+{
+    
+    padding-left:200px ;
+    margin: 3px;
+}
+
+
+ .studymaterials li a:hover{
+    color:rgb(216, 137, 20);
+    }
+        
+        \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+        <centre>
+           <div class="studymaterials">
+            
+            <li> <a href="#ECE">ECE</a> </li>
+   
+               <li> <a href="#CSE">CSE</a></li>
+               <li> <a href="#EEE">EEE</a></li>
+               <li> <a href="#ETE">ETE</a></li>
+               <br><br><br>
+               <li> <a href="#CE">CE</a></li>
+               
+               <li> <a href="#URP">URP</a></li>
+               <li> <a href="#ARCH">ARCH</a></li>
+               <li> <a href="#BECM">BECM</a></li>
+               <br><br><br>
+               <li> <a href="#ME">ME</a></li>
+               <li> <a href="#IPE">IPE</a></li>
+               <li> <a href="#GCE">GCE</a></li>
+               <li> <a href="#MTE">MTE</a></li>
+               <br><br><br>
+               <li> <a href="#MSE">MSE</a></li>
+               <li> <a href="#CFPE">CFPE</a></li>
+       
+            
+            
+            </li>
+       
+               
+
+        </div>
+        </centre>
